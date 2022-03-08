@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\bin\Debug\Vincic_Alen_PPZ02.exe.config
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\bin\Debug\Vincic_Alen_PPZ02.exe
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\bin\Debug\Vincic_Alen_PPZ02.pdb
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.Form1.resources
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.Properties.Resources.resources
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.exe
+C:\Users\ucenik\Desktop\Vincic_Alen_PPZ02\obj\Debug\Vincic_Alen_PPZ02.pdb
